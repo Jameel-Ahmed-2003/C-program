@@ -1,6 +1,6 @@
 /*
 
-C program to convert decimal number to any other number system(binary, octal, hexadecimal)
+C program to print nterms of fibonacci series
 
 */
 #include<stdio.h>
