@@ -1,3 +1,8 @@
+/*
+
+C program to print the addition of two matrix if possible
+
+*/
 #include<stdio.h>
 #include<windows.h>
 #include<conio.h>
