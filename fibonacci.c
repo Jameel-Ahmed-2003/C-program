@@ -1,4 +1,8 @@
-/* Recursion fibonacci series*/
+/*
+
+C program to convert decimal number to any other number system(binary, octal, hexadecimal)
+
+*/
 #include<stdio.h>
 #include<windows.h>
 int n,i=0,a=0,b=1,c;
