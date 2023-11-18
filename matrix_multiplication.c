@@ -1,6 +1,6 @@
 /*
 
-C program to print the addition of two matrix if possible
+C program to print the multiplication of two matrix if possible
 
 */
 #include<stdio.h>
